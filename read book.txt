@@ -1,3 +1,3 @@
 page01  how to use the C++
-page02  we use java
+page02  we use jave
 page03 you use vue
